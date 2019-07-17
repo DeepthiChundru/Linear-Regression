@@ -1,4 +1,6 @@
 # Linear-Regression
-Simple Linear Regression - One featuer and one label
-Multiple Linear Regression - more than one feature and one label
-polynomial Regression - One featuer and one label with degree of the features
+1. Simple Linear Regression - One featuer and one label
+
+2. Multiple Linear Regression - more than one feature and one label
+
+3. polynomial Regression - One featuer and one label with degree of the features
